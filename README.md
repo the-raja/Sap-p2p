@@ -80,8 +80,8 @@ This system provides a structured, status-based environment mirroring the SAP MM
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/sap-p2p-simulation.git
-   cd sap-p2p-simulation
+   git clone https://github.com/the-raja/Sap-p2p.git
+   cd Sap-p2p
    ```
 
 2. **Install dependencies:**
@@ -112,7 +112,6 @@ This system provides a structured, status-based environment mirroring the SAP MM
 
 For a detailed breakdown of the system architecture and academic report, please refer to:
 - [Technical Documentation](./DOCUMENTATION.md)
-- [Project Report (HTML Version)](./report.html)
 
 ---
 

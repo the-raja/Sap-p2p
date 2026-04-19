@@ -124,6 +124,3 @@ For a detailed breakdown of the system architecture and academic report, please 
 
 ---
 
-This project was developed as a comprehensive simulation of ERP Business Processes for [Your University/Course Name].
-
----

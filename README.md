@@ -124,9 +124,6 @@ For a detailed breakdown of the system architecture and academic report, please 
 
 ---
 
-## 🎓 Academic Credit
 This project was developed as a comprehensive simulation of ERP Business Processes for [Your University/Course Name].
 
 ---
-
-**SAP P2P Simulation © 2026**

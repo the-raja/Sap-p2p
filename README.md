@@ -8,6 +8,15 @@ A high-fidelity web application built with **Next.js 15** that simulates the cor
 
 This system provides a structured, status-based environment mirroring the SAP MM (Materials Management) and FI (Financial Accounting) modules. It enforces a strict procurement lifecycle, ensuring data integrity and financial accountability at every stage.
 
+## 🌐 Live Demo
+
+The application is deployed and accessible online:
+
+👉 https://sap-p2p.vercel.app/
+
+Users can explore the full Procure-to-Pay workflow, including requisition creation, order processing, goods receipt, invoice verification, and payment simulation.
+
+
 ### The P2P Lifecycle:
 `Purchase Requisition (PR)` ➔ `Purchase Order (PO)` ➔ `Goods Receipt (GR)` ➔ `Invoice Verification (IR)` ➔ `Payment (FI)`
 
